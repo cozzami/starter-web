@@ -1,7 +1,9 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+I will chage this as part of stash class
 
+Emergy
 ## Purpose
 
 thanks for my time. More changes from myfeature branch

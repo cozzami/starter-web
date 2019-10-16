@@ -5,12 +5,12 @@ thanks to all my students
 # TEAM
 
  Arilla
-
+ Please leave a review if you are OK
 # THANKS
 
     <name>
 
 # TECHNOLOGY COLOPHON
-
+sasasasas
     HTML5, CSS3
     jQuery, Modernizr
